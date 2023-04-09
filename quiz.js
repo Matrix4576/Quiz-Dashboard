@@ -9,6 +9,6 @@ else if (convert < 70) {
     number.classList.add('yellow')
 }
 
-else if (convert >= 90) {
+else if (convert >= 70) {
     number.classList.add('green')
 }
